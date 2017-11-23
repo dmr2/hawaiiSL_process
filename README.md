@@ -16,7 +16,7 @@ Before running scripts, the QC'd hourly SL data must be obtained from:
 
 ### data
 * **unzip.py** Unzip hourly U Hawaii SL Center data
-* **global.tgz** Daily maximum SL data (i.e., output from **hourly2dailyMax.py** 
+* **global.tgz** Daily maximum SL data (i.e., output from **hourly2dailyMax.py**)
 
 ### process
 * **hourly2dailyMax.py** Convert hourly U Hawaii SL data to daily maximums
